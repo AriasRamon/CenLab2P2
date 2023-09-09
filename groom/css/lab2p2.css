@@ -39,3 +39,10 @@ footer {
    background-color: red;
    color: white;
 }
+
+/*Media query for phones*/
+@media screen and (max-width: 600px), print
+{
+	.tab-desk{display:none;}
+
+} 
