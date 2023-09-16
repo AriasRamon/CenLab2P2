@@ -110,3 +110,6 @@ footer {
   clear: both;
 }
 
+figcaption {
+  text-align: center;
+}
