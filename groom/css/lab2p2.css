@@ -177,6 +177,19 @@ tr:nth-child(even) {
     margin:0 auto;
   }
 
+  div.a {
+    width: 100px;
+    height: 100px;
+    background: green;
+    position: relative;
+    animation: mymove 5s infinite;
+  }
+  
+  @keyframes mymove {
+    from {top: 0px;}
+    to {top: 200px;}
+  }
+
   @media only screen and (max-width: 600px) {
   
     * {
