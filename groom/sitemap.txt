@@ -1,0 +1,11 @@
+ http://www.exampledomain.com/index.html
+
+  http://www.exampledomain.com/Services.html
+
+   http://www.exampledomain.com/Page1.html
+
+    http://www.exampledomain.com/info.html
+
+     http://www.exampledomain.com/index.html
+
+      http://www.exampledomain.com/Contact.html
