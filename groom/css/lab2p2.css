@@ -245,3 +245,15 @@ tr:nth-child(even) {
     }
 
   }
+
+  .logo1 {
+float: left;
+padding-right: 2.5%;
+
+
+  }
+
+  .logo2 {
+float: left;
+  }
+
